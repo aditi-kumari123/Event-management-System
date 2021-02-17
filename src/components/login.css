@@ -1,0 +1,23 @@
+.body{
+    background: linear-gradient(to right, #f1faee, #e0f2e5, #cdebdf, #bae3dd, #a8dadc);
+    height:50%;
+    padding-top: 1%;
+}
+.card{
+    margin-top: 4%;
+    margin-bottom: 5%;
+    color: #3e6499;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+#btn{
+    background-color: #457b9d;
+    text-decoration: none;
+    outline-color: #457b9d;
+}
+label{
+    float: left;
+}
+.form-control{
+    width: 90%;
+}

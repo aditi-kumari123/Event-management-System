@@ -1,0 +1,17 @@
+#card{
+    height: 25em;
+    width:100%;
+    margin: 10px;
+
+}
+#button{
+    background-color: #457b9d;
+    text-decoration: none;
+    outline-style: none;
+    color: white;
+    border-radius: 10px;
+}
+#cardimg{
+    height:15em;
+    
+}
